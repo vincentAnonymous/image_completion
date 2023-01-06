@@ -1,0 +1,7 @@
+*.md
+*.pptx
+!README.md
+data
+JSparse
+result
+__pycache__
